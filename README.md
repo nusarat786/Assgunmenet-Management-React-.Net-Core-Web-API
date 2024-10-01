@@ -12,28 +12,37 @@ This system is designed to manage assignments, submissions, and other related en
 
 
 ## Screenshots
-
+<br> </br>
 **1. Access Based Login**
+<br> </br>
+
 ![image](https://github.com/user-attachments/assets/563ab299-85dc-47c4-9069-3cfda93a58c5)
 
+<br> </br>
 **2. Admin Dashboard --can perform cruds on entire university records-**
+<br> </br>
+
 ![image](https://github.com/user-attachments/assets/4ffbda01-ff73-483a-9afc-faeaf933727b)
 ![image](https://github.com/user-attachments/assets/e71e39ca-cfd5-4156-99dd-fd1c11861e17)
 ![image](https://github.com/user-attachments/assets/39883c0f-32fe-40b1-a697-d9f5cdfbdf99)
 ![image](https://github.com/user-attachments/assets/a4636a26-a61f-4834-9633-e2a40356bc79)
 
 
-
+<br> </br>
 **3. Teacher Dashboard --can add assignment and perform diffrent operation on assignment**
+<br> </br>
 
   **3.1. Teacher Home Page -- teacher can see all the course he/she assigned in**
   ![image](https://github.com/user-attachments/assets/3a481d70-5f0d-4872-9806-8d7effd02e5a)
+  <br> </br>
 
   **3.2. Teacher Add Assignment  -- teacher can add two types of assignment coding and non coding**
   ![image](https://github.com/user-attachments/assets/a11af27a-af1a-4646-a34d-620f3419c666)
   ![image](https://github.com/user-attachments/assets/da0fbc5a-c6ed-41f1-ad18-73b49c0fc2a4)
+  <br> </br>
 
   **3.3. Teacher Course Offred  -- teacher can see all the assignments created in tht piticular course offered**
+  <br> </br>
   ->teacher has all the option for assignment in specified links like edit,delete and get report
   ![image](https://github.com/user-attachments/assets/5a929607-cbfa-4ee2-b679-1fa65cecc7fd)
   ->report can be exported to exel and can be used to identify all the student who haven not submited assignment still
@@ -41,6 +50,7 @@ This system is designed to manage assignments, submissions, and other related en
 
 
   **3.4. Teacher Course Offred Report Page  -- teacher can genrate report on piticular course offred he/she is assiggned in**
+  <br> </br>
   ->report is like this and it used to get deatiled mark and submit history of all the students who are enrolled in pitucler corse
   ![image](https://github.com/user-attachments/assets/8956e4d8-c0cf-4501-8af0-e636e724afe0)
   ->can be exported in exel too ->> <40% marks means red rows
