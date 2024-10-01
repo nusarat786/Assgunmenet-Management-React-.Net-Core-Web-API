@@ -63,7 +63,7 @@ This system is designed to manage assignments, submissions, and other related en
   <br> </br>
   ->teacher can perform check submition and can give marks to pirticular submition
   ![image](https://github.com/user-attachments/assets/53c9c5e7-3545-44af-bede-524aa2095266)
-  ->heaedr for teacher
+  ->header for teacher
   ![image](https://github.com/user-attachments/assets/e2f91159-3f48-4d4c-98d4-8cc0605eec96)
 
 
