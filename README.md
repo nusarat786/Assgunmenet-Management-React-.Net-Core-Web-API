@@ -67,7 +67,7 @@ This system is designed to manage assignments, submissions, and other related en
 
 
 
-br
+<br> </br>
 ## Technical Components
 
 ### 1. Database Structure
