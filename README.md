@@ -17,7 +17,6 @@ This system is designed to manage assignments, submissions, and other related en
 ![image](https://github.com/user-attachments/assets/563ab299-85dc-47c4-9069-3cfda93a58c5)
 
 **2. Admin Dashboard --can perform cruds on entire university records-**
-![image](https://github.com/user-attachments/assets/319fa3f5-e4f8-4033-a236-57e7e38ce19f)
 ![image](https://github.com/user-attachments/assets/4ffbda01-ff73-483a-9afc-faeaf933727b)
 ![image](https://github.com/user-attachments/assets/a7ceecc0-2208-4947-8833-242c5094e4b4)
 ![image](https://github.com/user-attachments/assets/965b2a24-cf60-49ed-84b7-bbd014cc4c46)
