@@ -18,8 +18,10 @@ This system is designed to manage assignments, submissions, and other related en
 
 **2. Admin Dashboard --can perform cruds on entire university records-**
 ![image](https://github.com/user-attachments/assets/4ffbda01-ff73-483a-9afc-faeaf933727b)
-![image](https://github.com/user-attachments/assets/a7ceecc0-2208-4947-8833-242c5094e4b4)
-![image](https://github.com/user-attachments/assets/965b2a24-cf60-49ed-84b7-bbd014cc4c46)
+![image](https://github.com/user-attachments/assets/e71e39ca-cfd5-4156-99dd-fd1c11861e17)
+![image](https://github.com/user-attachments/assets/39883c0f-32fe-40b1-a697-d9f5cdfbdf99)
+![image](https://github.com/user-attachments/assets/a4636a26-a61f-4834-9633-e2a40356bc79)
+
 
 
 
