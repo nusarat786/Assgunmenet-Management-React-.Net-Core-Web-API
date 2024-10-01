@@ -67,29 +67,49 @@ This system is designed to manage assignments, submissions, and other related en
   ![image](https://github.com/user-attachments/assets/e2f91159-3f48-4d4c-98d4-8cc0605eec96)
 
 
+<br> </br>
+**4. Student Dashboard -**
+<br> </br>
+
+  **4.1. Student Home Page -- student can see all the course by sem and year he/she is assigned in**
+  ![image](https://github.com/user-attachments/assets/7411bd18-7d94-44b1-80f8-ff9769995d84)
+  <br> </br>
+
+  **4.2. Student CYS Page  -- student can see all the subject he assositaed in pirticular cys**
+  <br> </br>
+  ![image](https://github.com/user-attachments/assets/c236591d-b494-4827-9296-a64903e50783)
+
+  <br> </br>
+  
+  **4.3. Student Subject/ Course Offred Id Page  -- student can see all the assignment assoisiated with pirtcular subject / course offered**
+  <br> </br>
+  ![image](https://github.com/user-attachments/assets/f3dc477c-3758-49b6-a70d-456213d73e7d)
+
+  <br> </br>
+  
+  **4.4. Student Assignment submition Page  -- student can submit assignment based on it type**
+  <br> </br>
+  ![image](https://github.com/user-attachments/assets/ceefa988-d989-4104-b7a8-f8a2a3baa0b8)
+  <br> </br>
+  ![image](https://github.com/user-attachments/assets/8f3cd155-4c1d-4d38-aaca-294ef5729acb)
+
+  
+  **4.5. Student Assignment submition Page  -- student can submit assignment based on it type**
+  <br> </br>
+  --coding assignment
+  ![image](https://github.com/user-attachments/assets/ceefa988-d989-4104-b7a8-f8a2a3baa0b8)
+  <br> </br>
+  --non coding assignment
+  ![image](https://github.com/user-attachments/assets/8f3cd155-4c1d-4d38-aaca-294ef5729acb)
+  <br> </br>
+  --if alredy checked
+  ![image](https://github.com/user-attachments/assets/c7853edc-2d9f-4bdb-b359-6060fd6a6b73)
+  <br> </br>
+  --if coding and compile error
+  ![image](https://github.com/user-attachments/assets/26f99964-274e-4a72-825c-d9fe0b7364bb)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 <br> </br>
 ## Technical Components
 
