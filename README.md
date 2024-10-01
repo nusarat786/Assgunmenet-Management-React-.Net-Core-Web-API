@@ -48,13 +48,26 @@ This system is designed to manage assignments, submissions, and other related en
   ->report can be exported to exel and can be used to identify all the student who haven not submited assignment still
   ![image](https://github.com/user-attachments/assets/8f1f8001-ae65-4247-b63e-752b9161d9b5)
 
-
+  <br> </br>
   **3.4. Teacher Course Offred Report Page  -- teacher can genrate report on piticular course offred he/she is assiggned in**
   <br> </br>
   ->report is like this and it used to get deatiled mark and submit history of all the students who are enrolled in pitucler corse
   ![image](https://github.com/user-attachments/assets/8956e4d8-c0cf-4501-8af0-e636e724afe0)
   ->can be exported in exel too ->> <40% marks means red rows
   ![image](https://github.com/user-attachments/assets/a030f9ff-2068-4bc8-bc6a-691acc8473c9)
+
+  <br> </br>
+  **3.5. teacher Assignment Submition Page  -- teacher can get all the submition associted with pirticular assignment**
+  <br> </br>
+  ![image](https://github.com/user-attachments/assets/d9947b23-f245-4e50-bead-dcba48018656)
+  <br> </br>
+  ->teacher can perform check submition and can give marks to pirticular submition
+  ![image](https://github.com/user-attachments/assets/53c9c5e7-3545-44af-bede-524aa2095266)
+  ->heaedr for teacher
+  ![image](https://github.com/user-attachments/assets/e2f91159-3f48-4d4c-98d4-8cc0605eec96)
+
+
+
 
 
 
