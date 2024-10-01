@@ -1,0 +1,14 @@
+﻿var cookieValue = "FeKw08M4keuw8e9gnsQZQgwg4yDOlMZfvIwzEkSOsiU%3D%2F1014";
+
+// Decode the cookie value first, since it is URL encoded
+var decodedCookieValue = decodeURIComponent(cookieValue);
+
+// Split the decoded string using '/' as the delimiter
+var parts = decodedCookieValue.split('/');
+
+// The first part is the password, the second part is the tid
+var password = parts[0];
+var tid = parts[1];
+
+console.log("Password:", password);
+console.log("TID:", tid);

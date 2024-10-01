@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.container{
+  width: 100vw !important;
+  background-color: brown;
+
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.css-1j7jzr0-MuiPaper-root{
+  --Paper-shadow:none !important;
+  --Paper-overlay:none !important;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+/* Scrollbar Styles for Webkit Browsers */
+::-webkit-scrollbar {
+  width: 0.7rem; /* Set the width to 1rem for a modern, thicker scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(25, 118, 210, 0.2); /* Lighter shade of the main color for the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(25, 118, 210); /* Main color for the scrollbar thumb */
+  border-radius: 50px; /* Fully rounded corners for the scrollbar thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(25, 118, 210, 0.8); /* Darker shade of the main color on hover */
+  border-radius: 50px; /* Maintains roundness on hover */
+}
+
+/* Optional: adjust the width for horizontal scrollbar */
+::-webkit-scrollbar-horizontal {
+  
+  height: 0.4rem; /* Slightly thinner for horizontal scrollbars if needed */
+}
+

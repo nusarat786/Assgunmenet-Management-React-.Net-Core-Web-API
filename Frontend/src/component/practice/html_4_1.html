@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Video Player</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .Container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        .Buttons {
+            display: flex;
+            justify-content: space-around;
+            flex-direction: column;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        video {
+            border-radius: 20px;
+        }
+
+        .Size {
+            padding: 10px;
+            margin: 5px;
+            display: flex;
+            gap: 20px;
+        }
+
+        .Status {
+            padding: 10px;
+            margin: 5px;
+            display: flex;
+            justify-content: inherit;
+        }
+
+        img {
+            width: 25px;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .btn {
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 20px;
+            background: #68afd9cc;
+            border: none;
+            outline: none;
+            border-radius: 7px;
+            box-shadow: 5px 5px 2px black;
+            font-weight: 700;
+        }
+
+        .btn:active {
+            box-shadow: inset -5px -5px 2px black;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Main Container -->
+    <div class="Container">
+        <video id="vid" src="./External/A-Video.mp4" loop></video>
+        <div class="Buttons">
+            <h2>Change Size</h2>
+            <div class="Size">
+                <button class="btn" value="small">Small</button>
+                <button class="btn" value="normal">Normal</button>
+                <button class="btn" value="large">Large</button>
+            </div>63
+            BWP-ASSIGNMENT
+            <h2>Change Status</h2>
+            <div class="Status">
+                <button class="btn" value="pause"><img src="./External/pausebutton.png" alt="Pause"></button>
+                <button class="btn" value="play"><img src="./External/playbutton.png" alt="Play"></button>
+            </div>
+        </div>
+    </div>
+    <script>
+        let video = document.getElementById("vid");
+        let Btns = document.querySelectorAll('.btn');
+        for (let i = 0; i < Btns.length; i++) {
+            Btns[i].addEventListener('click', function () {
+                // console.log(Btns[i].value);
+                if (Btns[i].value == "small") {
+                    video.style.width = "100px";
+                }
+                else if (Btns[i].value == "large") {
+                    video.style.width = "100vw";
+                }
+                else if (Btns[i].value == "pause") {
+                    video.pause();
+                }
+                else // if(Btns[i].value=="play")
+                {
+                    video.play();
+                }
+            });
+        }
+    </script>
+</body>
+
+</html>
