@@ -24,8 +24,30 @@ This system is designed to manage assignments, submissions, and other related en
 
 
 
+**3. Teacher Dashboard --can add assignment and perform diffrent operation on assignment**
 
-**3. Admin Dashboard --can perform cruds on entire university records-**
+  **3.1. Teacher Home Page -- teacher can see all the course he/she assigned in**
+  ![image](https://github.com/user-attachments/assets/3a481d70-5f0d-4872-9806-8d7effd02e5a)
+
+  **3.2. Teacher Add Assignment  -- teacher can add two types of assignment coding and non coding**
+  ![image](https://github.com/user-attachments/assets/a11af27a-af1a-4646-a34d-620f3419c666)
+  ![image](https://github.com/user-attachments/assets/da0fbc5a-c6ed-41f1-ad18-73b49c0fc2a4)
+
+  **3.3. Teacher Course Offred  -- teacher can see all the assignments created in tht piticular course offered**
+  ->teacher has all the option for assignment in specified links like edit,delete and get report
+  ![image](https://github.com/user-attachments/assets/5a929607-cbfa-4ee2-b679-1fa65cecc7fd)
+  ->report can be exported to exel and can be used to identify all the student who haven not submited assignment still
+  ![image](https://github.com/user-attachments/assets/8f1f8001-ae65-4247-b63e-752b9161d9b5)
+
+
+  **3.4. Teacher Course Offred Report Page  -- teacher can genrate report on piticular course offred he/she is assiggned in**
+  ->report is like this and it used to get deatiled mark and submit history of all the students who are enrolled in pitucler corse
+  ![image](https://github.com/user-attachments/assets/8956e4d8-c0cf-4501-8af0-e636e724afe0)
+  ->can be exported in exel too ->> <40% marks means red rows
+  ![image](https://github.com/user-attachments/assets/a030f9ff-2068-4bc8-bc6a-691acc8473c9)
+
+
+
 
 
 
